@@ -1,0 +1,29 @@
+{
+  "name": "team-1650-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuildForSDGCohort2/Team-1650-Backend.git"
+  },
+  "author": "WillzMu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuildForSDGCohort2/Team-1650-Backend/issues"
+  },
+  "homepage": "https://github.com/BuildForSDGCohort2/Team-1650-Backend#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
